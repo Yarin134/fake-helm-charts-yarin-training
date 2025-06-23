@@ -1,6 +1,6 @@
 server:
   tag: 1.2.3
 realworld:
-  tag: 0.0.4
+  tag: 0.0.3
 db:
   tag: 0.2.0
